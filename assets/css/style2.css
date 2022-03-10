@@ -1,0 +1,56 @@
+/* Store this code in 'style.css' file inside the 'static' folder*/
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+.header{
+	padding: 5px 120px;
+	width: 150px;
+	height: 20px;
+	background-color: aliceblue;
+}
+html {
+	background-color: #008080;}
+ 
+
+.border{
+	padding: 80px 50px;
+	width: 400px;
+	height:450px;
+	border: 1px solid #236B8E;
+	border-radius: 0px;
+	background-color: aliceblue;
+}
+
+.btn {
+	padding: 10px 40px;
+	background-color: #008080;
+	color: #FFFFFF;
+	font-style: oblique;
+	font-weight: bold;
+	border-radius: 10px;
+}
+
+.textbox{
+	padding: 10px 40px;
+	background-color: aliceblue;
+	text-color: #FFFFFF;
+	border-radius: 10px;
+}
+	
+::placeholder {
+	color: #cccccc;
+	opacity: 1;
+	font-family: "Poppins", sans-serif;
+	
+}
+
+.word{
+	color: #008080;
+	font-family: "Poppins", sans-serif;
+	
+	background-color: aliceblue;
+}
+
+.bottom{
+ color: #008080;
+	font-style: oblique;
+	
+}
